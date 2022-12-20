@@ -1,0 +1,33 @@
+.padding-menu-item{
+  padding-left: 2rem;
+  padding-top: .8rem;
+  padding-bottom: .8rem;
+}
+
+.border-buttom {
+  border-bottom: 1px solid #ccc;
+}
+
+.border-radius-none{
+  border-radius: 0px !important;
+}
+
+.menu-color{
+  background: #00d1b2;
+}
+
+.menu{
+  cursor: pointer;
+}
+.full-height{
+  min-height: 100vh ;
+}
+
+.justify-content-none{
+  justify-content: none !important;
+}
+
+/* .is-position-absolute{
+  position: absolute;
+  bottom: 0;
+} */

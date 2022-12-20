@@ -1,0 +1,5 @@
+.box-image-content{
+    width:40px;
+    height: auto;
+    object-fit: contain;
+}

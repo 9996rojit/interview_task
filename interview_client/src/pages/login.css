@@ -1,0 +1,26 @@
+
+.full-height{
+    min-height: 100vh;
+}
+
+.is-vcentered {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center; 
+    align-items: center; 
+  }
+
+  .formWrapper{
+    width:70%;
+    margin: 0 auto;
+
+}
+.width-full{
+    width:100%
+}
+.image-content{
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+  
+}
